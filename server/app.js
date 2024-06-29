@@ -31,7 +31,7 @@ mongoose.connect("mongodb+srv://ashishstocks01:fAYyzudQ2KBEpXBJ@cluster0.lggdnhq
 });
 
 app.listen(3750, () =>{
-    console.log(`Connected to localhost port ${3750}`);
+    console.log(`Connected to localhost port ${3645}`);
 })
 
 
