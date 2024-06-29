@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-const Admin = require('../models/admin');
-const bcrypt = require('bcryptjs');
-=======
 const Admin = require('../models/Admin');
-const bcrypt = require('bcrypt');
->>>>>>> ad727c6abc3a80f3648c8cfd99919ee99adf39c5
+const bcrypt = require('bcryptjs');
 const jwt = require("jsonwebtoken");
 
 // Making Middleware Functions for Admin Operations.
