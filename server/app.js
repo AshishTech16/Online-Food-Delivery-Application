@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const userRouter = require('./routes/user-routes');
 const adminRouter = require('./routes/admin-routes');
-const FoodRouter = require('./routes/Food-routes');
+const FoodRouter = require('./routes/food-routes');
 const bookingsRouter = require('./routes/booking-routes');
 const bodyParser = require('body-parser');
 dotenv.config();
