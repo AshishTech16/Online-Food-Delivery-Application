@@ -7,7 +7,7 @@ import App from './App.jsx';
 import { store } from './store';
 import './index.css';
 
-axios.defaults.baseURL = "http://localhost:3750/";
+axios.defaults.baseURL = "https://online-food-delivery-application-7.onrender.com;
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
