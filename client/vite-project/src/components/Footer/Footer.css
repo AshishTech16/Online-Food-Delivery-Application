@@ -1,0 +1,27 @@
+.footer {
+  background-color: #E35A00; /* Orange background color */
+  color: #fff; /* Text color */
+  padding: 20px 0; /* Padding */
+  text-align: center; /* Center align text */
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around; /* Space around content */
+}
+
+.company-info {
+  flex: 1;
+  text-align: left;
+  padding-left: 30px; /* Left padding */
+}
+
+.companyRights {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px; /* Top margin */
+}
+
+.mern{
+  margin-left: 70em;
+}
