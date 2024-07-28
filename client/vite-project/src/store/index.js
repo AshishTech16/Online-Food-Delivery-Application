@@ -48,4 +48,4 @@ export const store = configureStore({
 
 
 // Flow of Reducer.
-// action -> dispatch -> reducer (it is pure function which stores final state).
+// action -> dispatch -> reducer (it is pure function which process and pass the updated state in the main store).
